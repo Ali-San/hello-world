@@ -1,0 +1,1 @@
+print("\tMay you be happy\n\tMay you be healthy\n\tMay you be safe\n\tMay you live with ease\n\n\t\t 🙏")
