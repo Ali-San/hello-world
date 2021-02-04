@@ -8,7 +8,7 @@ In this repo, I'm sharing some of the programs I wrote and shared on SoloLearn d
 
 Some programs are just a silly thing, greetings and jokes.<br>
 Some programs are my first attempt at solving problems using a recursive approach.<br>
-The ones with "OOP" in their name are just __xxxxx__ playful things I wrote as exercises to put into practice what I was learning about classes in Python.__xxxxx__<br>
+The ones with "OOP" in their name are just playful things I wrote as exercises to put into practice what I was learning about classes in Python.<br>
 ATBSWP?<br>
 tkinter<br>
 ...<br>
